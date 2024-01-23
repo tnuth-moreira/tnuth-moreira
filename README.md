@@ -2,14 +2,13 @@
 
 ### Sobre mim
 
-💻 Eu sou um desenvolvedor [Front-End | Back-End | Fullstack] 
+💻 Eu sou um desenvolvedor Front-End | Back-End | Fullstack 
 
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
-🎓 Eu estudo [[Desenvolvimento de Software Fullstack](https://cubos.academy/cursos/desenvolvimento-de-software-v2) ]
-
-👩‍💻 Atualmente eu trabalho com Audivisual
+🎓 Eu me formei em Desenvolvimento de Software Fullstack pela Cubos Academy(https://cubos.academy/cursos/desenvolvimento-de-software-v2)
+e estudo Analise e Desenvolvimento de Sistemas pela PUCPR
 
 🔎 Também sou curioso sobre Cinema, Musica, Jogos, Esportes e Ciencias no geral 
 
