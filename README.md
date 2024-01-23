@@ -1,4 +1,4 @@
-# Oi, me chamo [Thiago Moreira (Nuth)] 👋
+# Oi, me chamo Thiago Moreira (Nuth) 👋
 
 ### Sobre mim
 
