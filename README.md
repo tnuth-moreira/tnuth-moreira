@@ -56,7 +56,9 @@ Santander 2024 - Backend com Java ☕
 <div>
 <a href="https://github.com/tnuth-moreira">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnuth-moreira&layout=compact&langs_count=7&theme=dracula"/>
+<!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tnuth-moreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>!-->
 </div>
+
 
 ### Entre em contato comigo! 📭
 <div>
