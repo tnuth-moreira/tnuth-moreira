@@ -8,7 +8,7 @@
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
 🎓 Eu me formei em Desenvolvimento de Software Fullstack pela Cubos Academy(https://cubos.academy/cursos/desenvolvimento-de-software-v2)
-e estudo Analise e Desenvolvimento de Sistemas pela PUCPR
+e estudo Engenharia de Software pela Descomplica
 
 🔎 Também sou curioso sobre Cinema, Musica, Jogos, Esportes e Ciencias no geral 
 
