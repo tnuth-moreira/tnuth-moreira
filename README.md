@@ -28,3 +28,4 @@
 <a href="https://www.linkedin.com/in/thiago-moreira-690343143/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+Esse template foi feito por <a href="https://cubos.academy/" target="_blank">Cubos Academy!</a> ✨
