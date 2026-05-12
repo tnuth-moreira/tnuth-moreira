@@ -2,8 +2,11 @@
 
 ### Sobre mim
 💻 **Desenvolvedor Full Stack** com experiência em APIs REST e Conteinerização.
+
 🎓 Estudante de **Engenharia de Software** na Descomplica e formado pela Cubos Academy.
+
 🛠️ Atuando como **Freelancer**, resolvendo problemas reais com Python e Node.js.
+
 📚 Atualmente lendo: *Entendendo Algoritmos* de Aditya Y. Bhargava.
 
 ### Tecnologias e Ferramentas 🔧
@@ -13,13 +16,6 @@
 * **Refatoração:** Reconstruindo um Sistema de Gestão Full Stack (Solo Project).
 * **Automação:** Implementando fluxos com **N8N** para serviços profissionais.
 * **Segurança:** Especialização em Cibersegurança pelo programa **Hackers do Bem**.
-
-### GitHub Stats ⚡
-<div>
-<a href="https://github.com/tnuth-moreira">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnuth-moreira&layout=compact&langs_count=7&theme=dracula"/>
-<!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tnuth-moreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>!-->
-</div>
 
 
 ### Entre em contato comigo! 📭
